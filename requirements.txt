@@ -1,0 +1,5 @@
+#####
+# Requirements for running teamgame2
+#####
+
+pygame==2.0.0
