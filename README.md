@@ -11,6 +11,7 @@ Here is the contributor order:
 - Thomas
 - Curtis
 - Tavi
+- Azi
 - Cameron
 - Jarle
 - Brandon
